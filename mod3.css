@@ -1,0 +1,11 @@
+#wrapper{
+	background-color: #98FB98;
+	border-radius: 0;
+	border:0;
+}
+.menu {
+	background-color: #F0E68C;
+	height: 1200px;
+	width: 1200px;
+	border:2px solid black;
+}
